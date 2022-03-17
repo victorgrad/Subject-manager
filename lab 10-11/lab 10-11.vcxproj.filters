@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="lab1011.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="DOMAIN.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="REPO.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SERVICE.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="teste.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="lab1011.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="lab1011.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="lab1011.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{0a9fee98-f5fd-4cfd-84fb-da275f61772d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{56c7465a-5500-4503-bdfc-95e276c5c3cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{18c5d867-c09f-423e-8c0d-cd759458e2b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GUI.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="dom.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="repo.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="serv.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="teste.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exported.htm">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="test.htm">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="test-result.htm">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="fisier.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="test.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="test_lff.txt">
+      <Filter>Resources</Filter>
+    </Text>
+    <Text Include="test-result.txt">
+      <Filter>Resources</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

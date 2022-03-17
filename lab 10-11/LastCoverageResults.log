@@ -1,0 +1,21 @@
+[2021-05-24 12:57:52] [info] Start Program:
+Path:"C:\\Users\\gradi\\OneDrive\\Desktop\\Facultate\\Random desktop\\lab 10-11\\x64\\Debug\\lab 10-11.exe"
+Arguments:
+Working directory: "C:\\Users\\gradi\\OneDrive\\Desktop\\Facultate\\Random desktop\\lab 10-11\\lab 10-11\\"
+Modules: Selected: C:\Users\gradi\OneDrive\Desktop\Facultate\Random desktop\lab 10-11\x64\Debug\lab 10-11.exe Excluded: 
+Sources: Selected: C:\Users\gradi\OneDrive\Desktop\Facultate\Random desktop\lab 10-11\lab 10-11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\gradi\AppData\Local\Temp\twvnumci.uec 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-24 12:57:52] [info] Module: C:\Users\gradi\OneDrive\Desktop\Facultate\Random desktop\lab 10-11\x64\Debug\lab 10-11.exe is selected because it matches selected pattern: C:\Users\gradi\OneDrive\Desktop\Facultate\Random desktop\lab 10-11\x64\Debug\lab 10-11.exe
+[2021-05-24 12:57:55] [info] ----------------------------------------------------
+[2021-05-24 12:57:55] [info] Coverage binary generated in file: C:\Users\gradi\AppData\Local\Temp\twvnumci.uec
+[2021-05-24 12:57:55] [info] ----------------------------------------------------
